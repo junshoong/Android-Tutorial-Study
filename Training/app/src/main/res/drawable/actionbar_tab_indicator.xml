@@ -4,38 +4,38 @@
     <!-- STATES WHEN BUTTON IS NOT PRESSED -->
 
     <!-- Non focused states -->
-    <item android:state_focused="false" android:state_selected="false"
-        android:state_pressed="false"
-        android:drawable="@drawable/tab_unselected" />
-    <item android:state_focused="false" android:state_selected="true"
-        android:state_pressed="false"
-        android:drawable="@drawable/tab_selected" />
+    <!--<item android:state_focused="false" android:state_selected="false"-->
+        <!--android:state_pressed="false"-->
+        <!--android:drawable="@drawable/tab_unselected" />-->
+    <!--<item android:state_focused="false" android:state_selected="true"-->
+        <!--android:state_pressed="false"-->
+        <!--android:drawable="@drawable/tab_selected" />-->
 
-    <!-- Focused states (such as when focused with a d-pad or mouse hover) -->
-    <item android:state_focused="true" android:state_selected="false"
-        android:state_pressed="false"
-        android:drawable="@drawable/tab_unselected_focused" />
-    <item android:state_focused="true" android:state_selected="true"
-        android:state_pressed="false"
-        android:drawable="@drawable/tab_selected_focused" />
+    <!--&lt;!&ndash; Focused states (such as when focused with a d-pad or mouse hover) &ndash;&gt;-->
+    <!--<item android:state_focused="true" android:state_selected="false"-->
+        <!--android:state_pressed="false"-->
+        <!--android:drawable="@drawable/tab_unselected_focused" />-->
+    <!--<item android:state_focused="true" android:state_selected="true"-->
+        <!--android:state_pressed="false"-->
+        <!--android:drawable="@drawable/tab_selected_focused" />-->
 
 
-    <!-- STATES WHEN BUTTON IS PRESSED -->
+    <!--&lt;!&ndash; STATES WHEN BUTTON IS PRESSED &ndash;&gt;-->
 
-    <!-- Non focused states -->
-    <item android:state_focused="false" android:state_selected="false"
-        android:state_pressed="true"
-        android:drawable="@drawable/tab_unselected_pressed" />
-    <item android:state_focused="false" android:state_selected="true"
-        android:state_pressed="true"
-        android:drawable="@drawable/tab_selected_pressed" />
+    <!--&lt;!&ndash; Non focused states &ndash;&gt;-->
+    <!--<item android:state_focused="false" android:state_selected="false"-->
+        <!--android:state_pressed="true"-->
+        <!--android:drawable="@drawable/tab_unselected_pressed" />-->
+    <!--<item android:state_focused="false" android:state_selected="true"-->
+        <!--android:state_pressed="true"-->
+        <!--android:drawable="@drawable/tab_selected_pressed" />-->
 
-    <!-- Focused states (such as when focused with a d-pad or mouse hover) -->
-    <item android:state_focused="true" android:state_selected="false"
-        android:state_pressed="true"
-        android:drawable="@drawable/tab_unselected_pressed" />
-    <item android:state_focused="true" android:state_selected="true"
-        android:state_pressed="true"
-        android:drawable="@drawable/tab_selected_pressed" />
+    <!--&lt;!&ndash; Focused states (such as when focused with a d-pad or mouse hover) &ndash;&gt;-->
+    <!--<item android:state_focused="true" android:state_selected="false"-->
+        <!--android:state_pressed="true"-->
+        <!--android:drawable="@drawable/tab_unselected_pressed" />-->
+    <!--<item android:state_focused="true" android:state_selected="true"-->
+        <!--android:state_pressed="true"-->
+        <!--android:drawable="@drawable/tab_selected_pressed" />-->
 
 </selector>
