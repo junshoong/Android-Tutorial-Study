@@ -7,7 +7,7 @@
         <item name="android:actionBarTabTextStyle">@style/MyActionBarTabText</item>
         <item name="android:actionMenuTextColor">@color/actionbar_text</item>
         <!--<item name="android:actionBarTabStyle">@style/MyActionBarTabs</item>-->
-        <item name="android:windowActionBarOverlay">false</item>
+        <item name="android:windowActionBarOverlay">true</item>
     </style>
     <!-- ActionBar style -->
     <style name="MyActionBar"

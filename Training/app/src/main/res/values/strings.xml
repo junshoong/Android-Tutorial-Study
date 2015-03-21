@@ -11,4 +11,5 @@
     <string name="hello_world">Hello world!</string>
 
     <string name="action_search">Action Search</string>
+    <string name="test_button_text">Test Button</string>
 </resources>

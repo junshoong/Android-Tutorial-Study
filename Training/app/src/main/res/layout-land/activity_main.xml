@@ -29,6 +29,6 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:text="@string/test_button_text"
-        android:textColor="#000"
+        android:textColor="#ff00ff"
         android:background="@drawable/button_selector"/>
 </LinearLayout>
